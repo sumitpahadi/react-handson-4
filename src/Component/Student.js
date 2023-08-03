@@ -79,6 +79,7 @@ function Student() {
     <div>
       <div className="heading">
         <h1>Student Details</h1>
+        <button className="button">Add New Student</button>
       </div>
       <div className="table-cont">
 

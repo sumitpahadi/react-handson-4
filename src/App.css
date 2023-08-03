@@ -38,8 +38,17 @@
 .heading{
     margin-top: 40px;
     margin-left: 40px;
+    display: flex;
+    justify-content: space-between;
 }
 
+.heading .button{
+    margin-right: 10%;
+    border-radius: 18px;
+    width: 300px;
+    font-size: larger;
+    font-weight: 22px;
+}
 
 table {
     width: 90%;
